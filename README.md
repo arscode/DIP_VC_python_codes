@@ -1,6 +1,6 @@
 # DIP_VC_python_codes
 
-Course: CMSA-DSE-A-1, University of Calcutta
+Course: CMSA-DSE-A-1, University of Calcutta,
 B.Sc. hons. in Computer Science
 ---------------------------------------------------------------------------
 Digital Image processing codes used for Sem - V Computer Science course. This repo contains some Python source code files and required images and final images too.
