@@ -1,2 +1,2 @@
 Here the coded used for DIP course lectures. 
-Please install required libraries.
+Please install required libraries for DIP course.
