@@ -8,6 +8,6 @@ Digital Image processing codes used for Sem - V Computer Science course. This re
 
 Python notebooks are provided, created under anaconda-navigator for ease of use. Numpy and matplotplib is preinstallaed under anaconda navigator.
 
-**To install opencv under conda environment : conda install opencv** 
+**To install opencv under conda environment : !conda install opencv** 
 
 
